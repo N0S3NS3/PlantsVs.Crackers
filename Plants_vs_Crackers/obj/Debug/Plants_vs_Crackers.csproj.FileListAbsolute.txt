@@ -1,6 +1,0 @@
-C:\Users\Zachary\Desktop\Plants vs Crackers\Plants_vs_Crackers\Plants_vs_Crackers\bin\Debug\Plants_vs_Crackers.exe.config
-C:\Users\Zachary\Desktop\Plants vs Crackers\Plants_vs_Crackers\Plants_vs_Crackers\bin\Debug\Plants_vs_Crackers.exe
-C:\Users\Zachary\Desktop\Plants vs Crackers\Plants_vs_Crackers\Plants_vs_Crackers\bin\Debug\Plants_vs_Crackers.pdb
-C:\Users\Zachary\Desktop\Plants vs Crackers\Plants_vs_Crackers\Plants_vs_Crackers\obj\Debug\Plants_vs_Crackers.csprojResolveAssemblyReference.cache
-C:\Users\Zachary\Desktop\Plants vs Crackers\Plants_vs_Crackers\Plants_vs_Crackers\obj\Debug\Plants_vs_Crackers.exe
-C:\Users\Zachary\Desktop\Plants vs Crackers\Plants_vs_Crackers\Plants_vs_Crackers\obj\Debug\Plants_vs_Crackers.pdb
